@@ -14,7 +14,7 @@
 <table width="100%" cellspacing=1 bgcolor=#999999>
 	<tr>
 		<td bgcolor=#666666 colspan=7 
-			style="color: #FFFFFF; font-size:50px; height:80px; ">Welcome to T2cloud Container platform</td>
+			style="color: #FFFFFF; font-size:50px; height:80px; ">Welcome to T2cloud Container platform,hello world</td>
 	</tr>
 	<tr>
 		<td bgcolor=#DDDDDD style="height:40px" align=center><a href="#">首页</a></td>
